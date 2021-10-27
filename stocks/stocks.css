@@ -1,0 +1,15 @@
+.gain {
+  color: green;
+}
+
+.loss {
+  color: red;
+}
+
+.big-gain {
+  font-weight: bold;
+}
+
+.big-loss {
+  font-weight: bold;
+}
